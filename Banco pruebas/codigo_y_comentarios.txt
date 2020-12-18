@@ -1,0 +1,11 @@
+/* comentario al principio */
+/*ComentarioAntesDeCodigo */public class HolaMundo {
+/*comentario al principio */
+        public static void main(String[] args) 
+		{/*ComentarioDespuesDeCodigo*/
+	/* comentario/* dentro de comentario */ 
+	 /*ComentarioConTabsYBlancosAntes*/
+/*ComentarioConTabsYBlancosDespues*/	    
+        }
+}
+/*ComentariosSeguidos*//*ComentariosSeguidos*/

@@ -1,0 +1,13 @@
+public class HolaMundo {
+    /**/
+/**/
+    int b;	     /*
+    */
+      		int d;/**/
+    /**/	    int c;
+    /**/int e; 		  
+	public static/* if */ void main(String[] args) { try{}
+           catch(Exception E){}/* int a;
+    case 
+	
+	*/if(1==1){};} } 

@@ -1,0 +1,10 @@
+public class HolaMundo{
+//
+	  int a;//if 
+int a;  	 //if 
+  //if  		 
+  ////////////////////////////
+  /////////////bvgdiy//else/if////////////
+  ///**/*//*
+  //*/
+}

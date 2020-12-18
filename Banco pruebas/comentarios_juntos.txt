@@ -1,0 +1,16 @@
+public class HolaMundo {
+    public static void main(String[] args) {
+  	 /*else 
+
+*/  	 	int a;/*if
+
+*/ 
+  	 /*else */  	 	/* hola
+
+*/    /* test 
+ */   /**/ 
+         /**/int b;		  /* catch*/
+         /*case */
+int b;/**/
+    }
+}

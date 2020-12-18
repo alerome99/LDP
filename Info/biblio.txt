@@ -1,0 +1,11 @@
+>> Programa contador base <<
+https://www.geeksforgeeks.org/lex-program-to-count-the-number-of-lines-spaces-and-tabs/
+
+>> Entrada y salida con ficheros <<
+https://www.geeksforgeeks.org/lex-program-to-take-input-from-file-and-remove-multiple-spaces-lines-and-tabs/
+
+>> Métricas de Halstead <<
+https://product-help.schneider-electric.com/Machine Expert/V1.1/es/MACA/MACA/Metrics/Metrics-9.htm
+
+>> Métrica N-Path <<
+http://www.michael-pratt.com/blog/17/Complejidad-N-Path/
